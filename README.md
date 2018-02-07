@@ -1,2 +1,2 @@
-Mixx
-====
+Mixx - a bit of this, a bit of that...
+======================================
